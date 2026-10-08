@@ -1,39 +1,38 @@
-# Maxim Marchenkov — product designer
+# Максим Марченков — продуктовый дизайнер
 
-I take my own ideas all the way to working software, building them with AI coding
-agents (mostly Claude Code). Code is how I test and ship a design, not a second job title.
+[English version](README-en.md)
 
-<sub>Продуктовый дизайнер. Довожу свои идеи до работающего продукта с AI-агентами.</sub>
+Довожу свои идеи до работающего продукта и собираю его с AI-агентами — чаще всего с Claude Code. Код для меня — способ проверить и выпустить дизайн, а не вторая профессия.
 
-[Telegram](https://t.me/maxim_fakel) · Rostov-on-Don
+[Telegram](https://t.me/maxim_fakel) · Ростов-на-Дону
 
 ---
 
-## Selected work
+## Работы
 
-### [CapaTheNotch](https://github.com/maximfakel/capa-the-notch) · macOS app · open source
+### [CapaTheNotch](https://github.com/maximfakel/capa-the-notch) · macOS-приложение · open source
 
-AI coding agents' usage limits in the MacBook notch, plus a teleprompter under the camera and on-device dictation.
+Лимиты AI-агентов для программирования — прямо в «шторке» MacBook. Плюс телесуфлёр под камерой и офлайн-диктовка.
 
-**Why:** my limits kept running out mid-task without my noticing, the notch was dead screen space — and I wanted to see if I could ship a native app with an AI agent.
+**Зачем:** лимиты заканчивались посреди задачи, а я этого не замечал; место вокруг «чёлки» пустовало — и мне хотелось проверить, смогу ли я выпустить нативное приложение вместе с AI-агентом.
 
-**My part:** I designed, specified and shipped it; it was implemented with Claude Code, and I review the builds and make small code edits myself.
+**Моя роль:** спроектировал, описал и выпустил приложение. Код писал Claude Code, а я проверяю сборки и сам вношу небольшие правки.
 
-19 public releases in 11 days · [site](https://capathenotch.tech/) · [decision records](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)
+19 публичных релизов за 11 дней · [сайт](https://capathenotch.tech/) · [записи решений](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)
 
-<a href="https://github.com/maximfakel/capa-the-notch"><img src="assets/capa-hero.png" width="640" alt="CapaTheNotch: the open notch with Codex and Claude Code limits as gauges, and the Kapa character"></a>
+<a href="https://github.com/maximfakel/capa-the-notch"><img src="assets/capa-hero.png" width="640" alt="CapaTheNotch: открытая шторка с лимитами Codex и Claude Code в виде шкал"></a>
 
-## How I work
+## Как я работаю
 
-1. **Frame it.** The problem, what is in and out of scope, and the product's words
-   ([example glossary](https://github.com/maximfakel/capa-the-notch/blob/main/CONTEXT.md)).
-2. **Design it.** Mockups in Paper or Figma, agreed before any code is written.
-3. **Spec it.** An AI agent interviews me; I confirm the spec; it becomes small tickets
-   ([spec](https://github.com/maximfakel/capa-the-notch/blob/main/.scratch/capacity-notch/spec.md) ·
-   [tickets](https://github.com/maximfakel/capa-the-notch/tree/main/.scratch/capacity-notch/issues)).
-4. **Build it with agents.** Claude Code implements; I review the builds, make small code edits myself,
-   decide, and keep every trade-off in a decision record ([ADRs](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)).
-5. **Ship it.** Release notes, a smoke test, a landing page, distribution.
+1. **Формулирую задачу.** Проблема, что входит в объём и что нет, словарь продукта
+   ([пример глоссария](https://github.com/maximfakel/capa-the-notch/blob/main/CONTEXT.md)).
+2. **Проектирую.** Макеты в Paper или Figma — согласованы до первой строчки кода.
+3. **Пишу спецификацию.** AI-агент берёт у меня интервью, я подтверждаю спецификацию, и она превращается в небольшие тикеты
+   ([спецификация](https://github.com/maximfakel/capa-the-notch/blob/main/.scratch/capacity-notch/spec.md) ·
+   [тикеты](https://github.com/maximfakel/capa-the-notch/tree/main/.scratch/capacity-notch/issues)).
+4. **Собираю с агентами.** Claude Code пишет код; я проверяю сборки, сам вношу небольшие правки,
+   принимаю решения и записываю каждый компромисс ([ADR](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)).
+5. **Выпускаю.** Заметки к релизу, smoke-тест, лендинг, распространение.
 
-Things I care about in every build: accessibility (keyboard, VoiceOver, Reduce Motion, states that don't rely on colour),
-motion that costs nothing at rest, sound used sparingly, and plain wording.
+Что для меня важно в каждой сборке: доступность (клавиатура, VoiceOver, Reduce Motion, состояния, которые различаются не только цветом),
+анимация, которая ничего не стоит в покое, сдержанный звук и простые формулировки.
