@@ -12,13 +12,13 @@
 
 ### [CapaTheNotch](https://github.com/maximfakel/capa-the-notch) · macOS-приложение · open source
 
-Лимиты AI-агентов для программирования — прямо в «шторке» MacBook. Плюс телесуфлёр под камерой и офлайн-диктовка.
+Лимиты AI-агентов для программирования — прямо в «шторке» MacBook. Плюс телесуфлёр под камерой, офлайн-диктовка, календарь, переводчик и полка для файлов.
 
 **Зачем:** лимиты заканчивались посреди задачи, а я этого не замечал; место вокруг «чёлки» пустовало — и мне хотелось проверить, смогу ли я выпустить нативное приложение вместе с AI-агентом.
 
 **Моя роль:** спроектировал, описал и выпустил приложение. Код писал Claude Code, а я проверяю сборки и сам вношу небольшие правки.
 
-19 публичных релизов за 11 дней · [сайт](https://capathenotch.tech/) · [записи решений](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)
+[Сайт](https://capathenotch.tech/) · [записи решений](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)
 
 <a href="https://github.com/maximfakel/capa-the-notch"><img src="assets/capa-hero.png" width="640" alt="CapaTheNotch: открытая шторка с лимитами Codex и Claude Code в виде шкал"></a>
 

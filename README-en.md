@@ -13,13 +13,13 @@ agents (mostly Claude Code). Code is how I test and ship a design, not a second 
 
 ### [CapaTheNotch](https://github.com/maximfakel/capa-the-notch) · macOS app · open source
 
-AI coding agents' usage limits in the MacBook notch, plus a teleprompter under the camera and on-device dictation.
+AI coding agents' usage limits in the MacBook notch, plus a teleprompter under the camera, on-device dictation, a calendar, a translator and a shelf for files.
 
 **Why:** my limits kept running out mid-task without my noticing, the notch was dead screen space — and I wanted to see if I could ship a native app with an AI agent.
 
 **My part:** I designed, specified and shipped it; it was implemented with Claude Code, and I review the builds and make small code edits myself.
 
-19 public releases in 11 days · [site](https://capathenotch.tech/) · [decision records](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)
+[Site](https://capathenotch.tech/) · [decision records](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)
 
 <a href="https://github.com/maximfakel/capa-the-notch"><img src="assets/capa-hero.png" width="640" alt="CapaTheNotch: the open notch with Codex and Claude Code limits as gauges, and the Kapa character"></a>
 
