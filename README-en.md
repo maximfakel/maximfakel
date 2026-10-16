@@ -21,7 +21,7 @@ Shows how much of your Claude Code, Codex and OpenCode limits is left, right in 
 
 [Site](https://capathenotch.tech/) · [decision records](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)
 
-<a href="https://github.com/maximfakel/capa-the-notch"><img src="assets/capa-hero.png" width="640" alt="CapaTheNotch: the open notch with Codex and Claude Code limits as gauges, and the Kapa character"></a>
+<a href="https://github.com/maximfakel/capa-the-notch"><img src="assets/capa-cover-en.webp" width="640" alt="CapaTheNotch: the notch opens on the Codex and Claude Code limits; the pointer comes near the dots at the bottom, they open into buttons, and the pages turn: music, teleprompter, Shelf, calendar and back to the limits"></a>
 
 ## How I work
 

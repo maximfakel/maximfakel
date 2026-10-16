@@ -20,7 +20,7 @@
 
 [Сайт](https://capathenotch.tech/) · [записи решений](https://github.com/maximfakel/capa-the-notch/tree/main/docs/adr)
 
-<a href="https://github.com/maximfakel/capa-the-notch"><img src="assets/capa-hero.png" width="640" alt="CapaTheNotch: открытая «шторка» с лимитами Codex и Claude Code в виде шкал и персонаж Капа"></a>
+<a href="https://github.com/maximfakel/capa-the-notch"><img src="assets/capa-cover.webp" width="640" alt="CapaTheNotch: «шторка» открывается на лимитах Codex и Claude Code; курсор подходит к точкам внизу, они раскрываются в кнопки, и страницы листаются: музыка, суфлёр, полка, календарь и снова лимиты"></a>
 
 ## Как я работаю
 
