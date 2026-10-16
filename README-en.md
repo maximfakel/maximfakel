@@ -5,7 +5,7 @@
 I take my own ideas all the way to working software, building them with AI coding
 agents (mostly Claude Code). Code is how I test and ship a design, not a second job title.
 
-[Telegram](https://t.me/maxim_fakel) · Rostov-on-Don
+[Portfolio](https://maximfakel.ru/en) · [Telegram](https://t.me/maxim_fakel) · Rostov-on-Don
 
 ---
 
